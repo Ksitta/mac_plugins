@@ -39,7 +39,7 @@ see .zshrc
 echo ".DS_Store" >> ~/.gitignore_global
 ```
 
-add following to .gitconfig_global
+add following to ~/.gitconfig
 
 ```bash
 [core]
