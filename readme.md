@@ -11,6 +11,7 @@ Here are some Mac plugins or commands I've collected to get used to when switchi
 5. [Alfred](https://www.alfredapp.com/)
 6. [Stretchly](https://hovancik.net/stretchly/)
 7. [Karabiner](https://karabiner-elements.pqrs.org/)
+
    See myshortcut.json for my configuration
 8. [iTerm2](https://iterm2.com/)
 
@@ -32,3 +33,15 @@ defaults write com.apple.inputmethod.CoreChineseEngineFramework shuangpinLayout 
 
 see .zshrc
 
+### Globally ignore .DS_Store
+
+```bash
+echo ".DS_Store" >> ~/.gitignore_global
+```
+
+add following to .zshrc
+
+```bash
+[core]
+   excludesfile = /Users/frw/.gitignore">> ~/.gitconfig_global
+```
