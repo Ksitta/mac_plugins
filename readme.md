@@ -39,9 +39,9 @@ see .zshrc
 echo ".DS_Store" >> ~/.gitignore_global
 ```
 
-add following to .zshrc
+add following to .gitconfig_global
 
 ```bash
 [core]
-   excludesfile = /Users/frw/.gitignore">> ~/.gitconfig_global
+   excludesfile = /Users/frw/.gitignore"
 ```
