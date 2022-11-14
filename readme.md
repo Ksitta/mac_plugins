@@ -43,5 +43,5 @@ add following to ~/.gitconfig
 
 ```bash
 [core]
-   excludesfile = /Users/frw/.gitignore"
+   excludesfile = /Users/frw/.gitignore_global"
 ```
