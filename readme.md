@@ -45,3 +45,7 @@ add following to ~/.gitconfig
 [core]
    excludesfile = /Users/frw/.gitignore_global"
 ```
+
+### Remove multiple version of edge at System Preferences > General > Default Web Browser
+
+删除`~/Library/Microsoft/EdgeUpdater`下旧版本的edge文件夹
