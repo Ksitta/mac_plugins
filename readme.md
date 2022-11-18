@@ -48,4 +48,4 @@ add following to ~/.gitconfig
 
 ### Remove multiple version of edge at System Preferences > General > Default Web Browser
 
-删除`~/Library/Microsoft/EdgeUpdater`下旧版本的edge文件夹
+delete old edge folders in `~/Library/Microsoft/EdgeUpdater`
