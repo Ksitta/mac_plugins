@@ -49,3 +49,9 @@ add following to ~/.gitconfig
 ### Remove multiple version of edge at System Preferences > General > Default Web Browser
 
 delete old edge folders in `~/Library/Microsoft/EdgeUpdater`
+
+### Find the bundle ID of an app
+
+```bash
+osascript -e 'id of app "App Name"'
+```
