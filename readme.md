@@ -55,3 +55,10 @@ delete old edge folders in `~/Library/Microsoft/EdgeUpdater`
 ```bash
 osascript -e 'id of app "App Name"'
 ```
+
+
+### How to solve “Clash for Windows” is damaged and can’t be opened. You should move it to the Trash.
+
+```bash
+sudo xattr -r -d com.apple.quarantine /Applications/Clash\ for\ Windows.app
+```
