@@ -49,6 +49,7 @@ add following to ~/.gitconfig
 ### Remove multiple version of edge at System Preferences > General > Default Web Browser
 
 delete old edge folders in `~/Library/Microsoft/EdgeUpdater`
+and `./Library/Application Support/Microsoft/EdgeUpdater/apps/msedge-stable/`
 
 ### Find the bundle ID of an app
 
