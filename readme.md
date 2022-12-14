@@ -14,7 +14,8 @@ Here are some Mac plugins or commands I've collected to get used to when switchi
 
    See myshortcut.json for my configuration
 8. [iTerm2](https://iterm2.com/)
-
+9. [AltTab](https://alt-tab-macos.netlify.app/)
+10. [Rectangle](https://rectangleapp.com/)
 ## Settings
 
 ### Show breadcrumbs navigator in finder
