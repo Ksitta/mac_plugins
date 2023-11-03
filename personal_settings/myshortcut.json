@@ -34,14 +34,14 @@
             ]
         },
         {
-            "description": "Cmd + d => F11",
+            "description": "Option + d => F11",
             "manipulators": [
                 {
                     "from": {
                         "key_code": "d",
                         "modifiers": {
                             "mandatory": [
-                                "left_command"
+                                "left_option"
                             ],
                             "optional": [
                                 "any"
