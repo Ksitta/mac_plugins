@@ -17,6 +17,7 @@ Here are some Mac plugins or commands I've collected to get used to when switchi
 9. [AltTab](https://alt-tab-macos.netlify.app/)
 10. [Rectangle](https://rectangleapp.com/)
 11. [Command X](https://sindresorhus.com/command-x)
+12. [CommandQ](https://commandqapp.com/)
 ## Settings
 
 ### Show breadcrumbs navigator in finder
