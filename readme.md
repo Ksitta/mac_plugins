@@ -66,3 +66,7 @@ osascript -e 'id of app "App Name"'
 ```bash
 sudo xattr -r -d com.apple.quarantine /Applications/Clash\ for\ Windows.app
 ```
+
+### Sort files and folders like Windows in Finder
+
+Finder > Settings > Advanced > Keep folders on top when sorting by name
