@@ -123,4 +123,3 @@ fi
 unset __conda_setup
 # <<< conda initialize <<<
 
-alias dy="ssh -f -T -N -L 21000:10.0.0.43:9100 jump"
