@@ -1,0 +1,6 @@
+# Rime user patch: prefer Natural Code double pinyin while keeping full pinyin
+# available from the schema switcher (Control+grave or F4). Natural Code stays first.
+patch:
+  schema_list:
+    - schema: double_pinyin
+    - schema: luna_pinyin_simp

@@ -1,0 +1,8 @@
+# Use a larger horizontal candidate window.
+patch:
+  style/candidate_list_layout: linear
+  style/font_point: 22
+  style/label_font_point: 18
+  style/comment_font_point: 16
+  style/line_spacing: 8
+  style/spacing: 16

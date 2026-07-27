@@ -1,0 +1,4 @@
+# Keep the typed double-pinyin code visible and output simplified Chinese.
+patch:
+  switches/@2/reset: 1
+  translator/preedit_format: []
